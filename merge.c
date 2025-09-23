@@ -39,7 +39,7 @@ void printarray(int ar[], int n)
     for(int i = 0; i < n; i++)
         printf("%d ", ar[i]);
     printf("\n");
-}
+}dqwdrwqf1
 
 void merge(int a[], int b[], int c[], int m, int n)
 {
